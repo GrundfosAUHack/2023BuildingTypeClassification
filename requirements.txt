@@ -1,4 +1,5 @@
 ipywidgets==7.7.1
+jupyterlab==3.6.2
 matplotlib==3.7.0
 numpy==1.24.2
 pandas==1.5.3
@@ -6,3 +7,8 @@ torch==1.12.1
 torchvision==0.13.1
 tqdm==4.64.0
 scikit-learn==1.2.2
+plotnine==0.10.1
+patchworklib==0.5.2
+siuba==0.4.2
+snowflake-connector-python==3.0.1
+snowflake-connector-python[pandas]
